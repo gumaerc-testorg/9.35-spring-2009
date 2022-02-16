@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Problem Sets
 uid: ba1aa567-2f23-145b-a818-1dc847c6400c
 ---

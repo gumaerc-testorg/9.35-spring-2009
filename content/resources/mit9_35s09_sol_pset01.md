@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions to a problem set on sensation and perception of light.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-35-sensation-and-perception-spring-2009/f7ed78f1d4e6e1636afbe6c60cb4e726_MIT9_35s09_sol_pset01.pdf
+file: /media/courses/9-35-sensation-and-perception-spring-2009/f7ed78f1d4e6e1636afbe6c60cb4e726_MIT9_35s09_sol_pset01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Problem Sets
+parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 1: Solutions Guide'
 uid: f7ed78f1-d4e6-e163-6afb-e6c60cb4e726
