@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: ba1aa567-2f23-145b-a818-1dc847c6400c
 resourcetype: Document
 title: "Problem Set #5 \u2013 Face Classification using Nearest\u2010Neighbor"
 uid: 6b86c399-b2f3-0817-b955-ebfb40945c32

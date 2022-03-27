@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 42b4f685-a0ae-ba70-61b2-e11e56ff8145
 resourcetype: Document
 title: Eye and Retina
 uid: 086d2191-23b0-de7a-f3a6-d32d9a335f7c

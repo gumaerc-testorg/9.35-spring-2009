@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 42b4f685-a0ae-ba70-61b2-e11e56ff8145
 resourcetype: Document
 title: Motion
 uid: f54376b8-2b97-dad2-ff4d-e546d138bc0f

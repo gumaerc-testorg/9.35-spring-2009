@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b97e41e-a388-ba7c-d13e-55739fe9f104
 resourcetype: Document
 title: The Retina
 uid: 4296c1ad-40c4-0136-5885-bbf2c9f25dad

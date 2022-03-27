@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b97e41e-a388-ba7c-d13e-55739fe9f104
 resourcetype: Document
 title: Hearing
 uid: ba046354-a9a2-29c6-537a-917c07ea03b0

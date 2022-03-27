@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b97e41e-a388-ba7c-d13e-55739fe9f104
 resourcetype: Document
 title: Auditory Scene Analysis
 uid: 3b5d1b39-4e86-3c38-8802-f38cbb2742f2
