@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Problem Sets
 uid: ba1aa567-2f23-145b-a818-1dc847c6400c
 ---
@@ -67,9 +70,9 @@ Problem set 3 (![This resource may not render correctly in a screen reader.](/im
 
 Problem set 4 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset04))
 
-Filtering function, filterim.m ([M](/courses/brain-and-cognitive-sciences/9-35-sensation-and-perception-spring-2009/problem-sets/filterim.m))
+Filtering function, filterim.m ([M]({{< baseurl >}}/resources/filterim))
 
-Viewing function, viewim.m ([M](/courses/brain-and-cognitive-sciences/9-35-sensation-and-perception-spring-2009/problem-sets/viewim.m))
+Viewing function, viewim.m ([M]({{< baseurl >}}/resources/viewim))
 
 Image file, mdr\_im.mat ([MAT]({{< baseurl >}}/resources/mdr_im))
 
