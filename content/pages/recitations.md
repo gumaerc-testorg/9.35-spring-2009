@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section presents the schedule of recitation topics for the course
+  along with notes from selected recitations.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
 title: Recitations
 uid: 42b4f685-a0ae-ba70-61b2-e11e56ff8145
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Selected Recitations are available for this course.
@@ -36,7 +42,7 @@ Kolb retina
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Eye and retina ([PDF - 4.2MB]({{< baseurl >}}/resources/mit9_35s09_rec02_eye_and_retina))
+Eye and retina ({{% resource_link 086d2191-23b0-de7a-f3a6-d32d9a335f7c "PDF - 4.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +87,7 @@ Attention and invariance
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Depth ([PDF]({{< baseurl >}}/resources/mit9_35s09_rec01_depth_cues))
+Depth ({{% resource_link 31ef37ac-7630-5c94-207d-0d4c6e3e21a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +96,7 @@ Depth ([PDF]({{< baseurl >}}/resources/mit9_35s09_rec01_depth_cues))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Motion ([PDF]({{< baseurl >}}/resources/mit9_35s09_rec03_motion))
+Motion ({{% resource_link f54376b8-2b97-dad2-ff4d-e546d138bc0f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

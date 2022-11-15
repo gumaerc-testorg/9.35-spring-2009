@@ -1,9 +1,17 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, guest lectures, readings, grading, assignments,
+  exams, criteria for HASS CI subjects, a statement on plagiarism, how to cite a source,
+  and the schedule of lecture topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 3e9f33aa-1bb1-3830-1286-9366dd0d13a0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
