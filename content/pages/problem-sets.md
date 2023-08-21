@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides details on the problem sets assigned for the course,
+  due dates, and solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Problem Sets
 uid: ba1aa567-2f23-145b-a818-1dc847c6400c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This course consists of six Problem Sets. Details are given in the Table below. Their due dates are shown in the Table below. Links to selected Problem Set Solutions are given below the Table.
@@ -30,10 +36,10 @@ Problem Set Solutions (Selected)
 2 days after Ses #3
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 1 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset01))
+Problem set 1 ({{% resource_link 5fc2ac48-1527-3d59-3cae-64a3aaa4ac5d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset01))
+Problem set 1 ({{% resource_link f7ed78f1-d4e6-e163-6afb-e6c60cb4e726 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,10 +48,10 @@ Problem set 1 (![This resource may not render correctly in a screen reader.](/im
 Ses #8
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 2 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset02))
+Problem set 2 ({{% resource_link 437dd07a-9704-edc1-720b-e308ef042dfb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset02))
+Problem set 2 ({{% resource_link 22f502c1-ca16-23de-bf20-b945679dae1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,10 +60,10 @@ Problem set 2 (![This resource may not render correctly in a screen reader.](/im
 Ses #11
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset03))
+Problem set 3 ({{% resource_link 8e71c597-449d-6a81-64dd-b1cc2a7bcc2e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset03))
+Problem set 3 ({{% resource_link 49d4a8e2-71a6-6bf7-cb82-8b49faf3e28f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,18 +74,18 @@ Problem set 3 (![This resource may not render correctly in a screen reader.](/im
 {{< tdopen >}}
 
 
-Problem set 4 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset04))
+Problem set 4 ({{% resource_link 7090482b-d6ca-f15d-6e59-643b62e8bb72 "PDF" %}})
 
-Filtering function, filterim.m ([M]({{< baseurl >}}/resources/filterim))
+Filtering function, filterim.m ({{% resource_link 0dbe8c4c-3361-e0ff-7013-9fbad710e73d "M" %}})
 
-Viewing function, viewim.m ([M]({{< baseurl >}}/resources/viewim))
+Viewing function, viewim.m ({{% resource_link fddb75ce-8836-6c5b-527f-a4613b9973dd "M" %}})
 
-Image file, mdr\_im.mat ([MAT]({{< baseurl >}}/resources/mdr_im))
+Image file, mdr\_im.mat ({{% resource_link 1d3aef16-996a-e6e5-097d-ce217db205c9 "MAT" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.2MB]({{< baseurl >}}/resources/mit9_35s09_sol_pset04))
+Problem set 4 ({{% resource_link 35370510-6ead-2b38-82b8-fd32f113e330 "PDF - 3.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,14 +96,14 @@ Problem set 4 (![This resource may not render correctly in a screen reader.](/im
 {{< tdopen >}}
 
 
-Problem set 5 ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset05))
+Problem set 5 ({{% resource_link 6b86c399-b2f3-0817-b955-ebfb40945c32 "PDF" %}})
 
-Binary file, orlFaces.mat ([MAT]({{< baseurl >}}/resources/orlfaces))
+Binary file, orlFaces.mat ({{% resource_link 954aa873-3452-ac76-c493-05505d7143ac "MAT" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 5 ([PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset05))
+Problem set 5 ({{% resource_link f2d2fed2-dad3-ed55-232e-107865fff64d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,20 +114,20 @@ Problem set 5 ([PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset05))
 {{< tdopen >}}
 
 
-Problem set 6 (part 1) ([PDF]({{< baseurl >}}/resources/mit9_35s09_pset06_part1))
+Problem set 6 (part 1) ({{% resource_link ef4580fe-c2f0-69d0-2a7e-14abcd59afec "PDF" %}})
 
-e1.wav ([WAV]({{< baseurl >}}/resources/e1))
+e1.wav ({{% resource_link 9307a32e-192b-73eb-5901-e1ed17d87786 "WAV" %}})
 
-s1.wav ([WAV]({{< baseurl >}}/resources/s1))
+s1.wav ({{% resource_link e021788a-a507-95ea-ee99-7a8ce0b3cbd6 "WAV" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Problem set 6 part 1 ([PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset06_part1))
+Problem set 6 part 1 ({{% resource_link 1d73c74a-bb1f-44b2-9366-63888380cb22 "PDF" %}})
 
-Problem set 6 full (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_35s09_sol_pset06_full))
+Problem set 6 full ({{% resource_link f26491ff-2e9d-8223-d786-af1b5cf76a4f "PDF" %}})
 
 
 {{< tdclose >}}

@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the course textbook and the schedule
+  of readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 06c85c4d-c73d-0651-845a-9b29cbdfc46e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Wolfe, Jeremy M., et al. _Sensation and Perception_. Sunderland, MA: Sinauer Associates Inc., 2005. ISBN: 9780878939381.
