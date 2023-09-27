@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with notes from selected lecture sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 3b97e41e-a388-ba7c-d13e-55739fe9f104
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Selected Lectures are available for this course.
@@ -54,7 +60,7 @@ Optics
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Retina ([PDF - 1.0MB]({{< baseurl >}}/resources/mit9_35s09_lec03_retina))
+Retina ({{% resource_link 4296c1ad-40c4-0136-5885-bbf2c9f25dad "PDF - 1.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +195,7 @@ Ear
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Hearing ([PDF]({{< baseurl >}}/resources/mit9_35s09_lec02_hearing))
+Hearing ({{% resource_link ba046354-a9a2-29c6-537a-917c07ea03b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +204,7 @@ Hearing ([PDF]({{< baseurl >}}/resources/mit9_35s09_lec02_hearing))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Auditory scene ([PDF]({{< baseurl >}}/resources/mit9_35s09_lec01_auditory))
+Auditory scene ({{% resource_link 3b5d1b39-4e86-3c38-8802-f38cbb2742f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +240,7 @@ Olfaction
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Taste ([PDF - 1.5MB]({{< baseurl >}}/resources/mit9_35s09_lec04_taste))
+Taste ({{% resource_link 761bb872-070b-78e6-c680-e2816eeea7ab "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
