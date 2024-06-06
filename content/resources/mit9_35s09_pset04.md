@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on illumination and luminance.
 file: /courses/9-35-sensation-and-perception-spring-2009/7090482bd6caf15d6e59643b62e8bb72_MIT9_35s09_pset04.pdf
+file_size: 144604
 file_type: application/pdf
 learning_resource_types:
 - Assignments
