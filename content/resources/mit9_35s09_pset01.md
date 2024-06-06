@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on sensation and perception of light.
 file: /courses/9-35-sensation-and-perception-spring-2009/5fc2ac4815273d593cae64a3aaa4ac5d_MIT9_35s09_pset01.pdf
+file_size: 107009
 file_type: application/pdf
 learning_resource_types:
 - Assignments

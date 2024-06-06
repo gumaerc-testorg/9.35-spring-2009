@@ -3,6 +3,7 @@ content_type: resource
 description: Filtering function provided as a supporting file for a problem set on
   illumination and luminance.
 file: /courses/9-35-sensation-and-perception-spring-2009/0dbe8c4c3361e0ff70139fbad710e73d_filterim.m
+file_size: 576
 file_type: text/plain
 learning_resource_types:
 - Assignments
