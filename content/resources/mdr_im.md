@@ -3,6 +3,7 @@ content_type: resource
 description: Image file provided as a supporting file for a problem set on illumination
   and luminance.
 file: /courses/9-35-sensation-and-perception-spring-2009/1d3aef16996ae6e5097dce217db205c9_mdr_im.mat
+file_size: 8287001
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on sound, hearing, and building the spectrogram.
 file: /courses/9-35-sensation-and-perception-spring-2009/ef4580fec2f069d02a7e14abcd59afec_MIT9_35s09_pset06_part1.pdf
+file_size: 41127
 file_type: application/pdf
 learning_resource_types:
 - Assignments
