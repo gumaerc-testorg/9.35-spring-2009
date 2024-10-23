@@ -2,7 +2,7 @@
 content_type: resource
 description: Viewing function provided as a supporting file for a problem set on illumination
   and luminance.
-file: /courses/9-35-sensation-and-perception-spring-2009/fddb75ce88366c5b527fa4613b9973dd_viewim.m
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/fddb75ce88366c5b527fa4613b9973dd_viewim.m
 file_size: 571
 file_type: text/plain
 learning_resource_types:

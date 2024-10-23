@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on using pixel distances for characterizing
   face similarity.
-file: /courses/9-35-sensation-and-perception-spring-2009/f2d2fed2dad3ed55232e107865fff64d_MIT9_35s09_sol_pset05.pdf
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/f2d2fed2dad3ed55232e107865fff64d_MIT9_35s09_sol_pset05.pdf
 file_size: 48475
 file_type: application/pdf
 learning_resource_types:
