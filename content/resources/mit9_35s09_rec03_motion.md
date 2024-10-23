@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation notes on perception of motion, delays, prediction, decoding,
   eye motion, inference, and seeing.
-file: /courses/9-35-sensation-and-perception-spring-2009/f54376b82b97dad2ff4de546d138bc0f_MIT9_35s09_rec03_motion.pdf
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/f54376b82b97dad2ff4de546d138bc0f_MIT9_35s09_rec03_motion.pdf
 file_size: 210780
 file_type: application/pdf
 learning_resource_types:

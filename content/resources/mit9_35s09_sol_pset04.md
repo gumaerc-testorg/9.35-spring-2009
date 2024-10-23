@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on illumination and luminance.
-file: /courses/9-35-sensation-and-perception-spring-2009/353705106ead2b3882b8fd32f113e330_MIT9_35s09_sol_pset04.pdf
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/353705106ead2b3882b8fd32f113e330_MIT9_35s09_sol_pset04.pdf
 file_size: 3369191
 file_type: application/pdf
 learning_resource_types:
