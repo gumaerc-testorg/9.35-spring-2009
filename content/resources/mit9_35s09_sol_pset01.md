@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on sensation and perception of light.
-file: /courses/9-35-sensation-and-perception-spring-2009/f7ed78f1d4e6e1636afbe6c60cb4e726_MIT9_35s09_sol_pset01.pdf
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/f7ed78f1d4e6e1636afbe6c60cb4e726_MIT9_35s09_sol_pset01.pdf
 file_size: 93688
 file_type: application/pdf
 learning_resource_types:
