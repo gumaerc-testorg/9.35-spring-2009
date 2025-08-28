@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on sound and hearing.
-file: /courses/9-35-sensation-and-perception-spring-2009/f26491ff2e9d8223d786af1b5cf76a4f_MIT9_35s09_sol_pset06_full.pdf
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/f26491ff2e9d8223d786af1b5cf76a4f_MIT9_35s09_sol_pset06_full.pdf
 file_size: 166474
 file_type: application/pdf
 learning_resource_types:

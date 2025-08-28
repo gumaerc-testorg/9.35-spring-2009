@@ -4,7 +4,7 @@ description: "Lecture presentation on taste, retronasal olfactory sensation, fla
   \ anatomy and physiology of the gustatory system, the four basic tastes, the pleasures\
   \ of taste, coding of taste quality, and genetic variation in taste experience.\r\
   \n"
-file: /courses/9-35-sensation-and-perception-spring-2009/761bb872070b78e6c680e2816eeea7ab_MIT9_35s09_lec04_taste.pdf
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/761bb872070b78e6c680e2816eeea7ab_MIT9_35s09_lec04_taste.pdf
 file_size: 1539326
 file_type: application/pdf
 learning_resource_types:
