@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes on the eye and the retina.
-file: /courses/9-35-sensation-and-perception-spring-2009/086d219123b0de7af3a6d32d9a335f7c_MIT9_35s09_rec02_eye_and_retina.pdf
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/086d219123b0de7af3a6d32d9a335f7c_MIT9_35s09_rec02_eye_and_retina.pdf
 file_size: 3729654
 file_type: application/pdf
 learning_resource_types:

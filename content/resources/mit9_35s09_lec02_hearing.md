@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on hearing and psychoacoustics.
-file: /courses/9-35-sensation-and-perception-spring-2009/ba046354a9a229c6537a917c07ea03b0_MIT9_35s09_lec02_hearing.pdf
+file: /ol-ocw-studio-app/courses/9-35-sensation-and-perception-spring-2009/ba046354a9a229c6537a917c07ea03b0_MIT9_35s09_lec02_hearing.pdf
 file_size: 906687
 file_type: application/pdf
 learning_resource_types:
